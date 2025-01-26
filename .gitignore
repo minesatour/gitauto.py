@@ -1,0 +1,29 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment folder
+env/
+*.env
+
+# pytest cache
+.pytest_cache/
+
+# IDE/editor folders and files
+.vscode/
+.idea/
+*.iml
+
+# MacOS-specific
+.DS_Store
+
+# Windows-specific
+Thumbs.db
+
+# Log files
+*.log
+
+# Backup files
+*.bak
+*.swp
